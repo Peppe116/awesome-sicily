@@ -140,6 +140,9 @@ Questa pagina è attualmente curata dalla [community di PAC](https://www.faceboo
 ### Messina
 * StartMeUp (Radio) - [<img src="media/web.png" width="18">](http://www.radiostartmeup.it/) [<img src="media/twitter.png" width="18">](https://twitter.com/radiosmu)
 
+### Partanna
+* CoderDojo Partanna - [<img src="media/web.png" width="18">](https://coderdojopartanna.wordpress.com/)
+
 ## Cultura
 * Officine Culturali - [<img src="media/web.png" width="18">](http://www.officineculturali.net/)
 * Cuore di Maglia - [<img src="media/web.png" width="18">](https://cuoredimaglia.wordpress.com/) (Catania)[<img src="media/email.png" width="18">](mailto:mariellafornello@tiscali.it) (Siracusa)[<img src="media/email.png" width="18">](mailto:milena_99@hotmail.it) (Palermo)[<img src="media/email.png" width="18">](mailto:ariservato@libero.it)
